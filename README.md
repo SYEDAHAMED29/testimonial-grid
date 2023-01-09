@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Testimonial Grid section](./screenshot.png)
+![Testimonial Grid section](/screenshot.png)
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -13,8 +13,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://github.com/SYEDAHAMED29/testimonial-grid)
--  Live Site URL: [Add live site URL here](https://testimonial-grid-syed.netlify.app/)
+-  Solution URL: [Solution](https://github.com/SYEDAHAMED29/testimonial-grid)
+-  Live Site URL: [Live Site](https://testimonial-grid-syed.netlify.app/)
 
 ## What I learned
 
