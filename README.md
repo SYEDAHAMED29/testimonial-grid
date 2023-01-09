@@ -16,7 +16,24 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 -  Solution URL: [Solution](https://github.com/SYEDAHAMED29/testimonial-grid)
 -  Live Site URL: [Live Site](https://testimonial-grid-syed.netlify.app/)
 
+---
+
 ## What I learned
+
+**1. `background-position`** :
+
+The **`background-position`** is used to position elements and is also used to align them using values.
+
+```css
+.class {
+   background-image: url("./image.png");
+   background-position: right top 10%;
+}
+```
+
+---
+
+**2. `grid`**:
 
 This challenge tested my CSS grid abilities.
 
@@ -59,6 +76,8 @@ main{
    grid-area: five;
 }
 ```
+
+---
 
 ## Author
 

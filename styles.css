@@ -14,11 +14,11 @@ body {
 }
 
 main {
-   padding: 6rem 8rem;
+   padding: 5rem 5rem;
    display: grid;
    grid-auto-columns: 1fr;
    grid-template-columns: 1fr 0.9fr 1.1fr 1fr;
-   grid-template-rows: 1fr 1fr;
+   grid-template-rows: 1.1fr 0.9fr;
    gap: 24px 32px;
    grid-template-areas:
       "first first second four"
@@ -62,7 +62,7 @@ img[alt="patrick"] {
    background-color: var(--violet);
    background-image: url("./images/bg-pattern-quotation.svg");
    background-repeat: no-repeat;
-   background-position: 300px 0px;
+   background-position: top right 10%;
 }
 
 .testimonial-two {
@@ -149,7 +149,6 @@ img[alt="patrick"] {
    }
 
    .testimonial-one {
-      background-position: right top;
-      background-origin: content-box;
+      background-position: right top 10%;
    }
 }
